@@ -1,4 +1,4 @@
-Assignment 1 --- Microservices with API Gateway
+Microservices with API Gateway
 =============================================
 
 This project demonstrates a simple microservices architecture with an API Gateway in Node.js using Express and http-proxy-middleware.
